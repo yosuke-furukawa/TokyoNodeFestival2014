@@ -1,4 +1,4 @@
-東京Node学園祭 2014
+東京Node学園祭 2014[![Gitter chat](https://badges.gitter.im/yosuke-furukawa/TokyoNodeFestival2014.png)](https://gitter.im/yosuke-furukawa/TokyoNodeFestival2014)
 ====================
 
 学園祭のTable Of Contentsとかどんなことが聞きたいのかをみんなでワイワイと決めたいなと思ってリポジトリ作りました。
