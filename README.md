@@ -29,6 +29,7 @@ Node学園祭は秋ごろを予定してますが、秋ごろには今のみん�
 
 - TJ Hallowaychuk (+1)
 - jonathanOng (+2)
+- sindresorhus (+1)
 
 聞きたいって言われたこと
 ====================
