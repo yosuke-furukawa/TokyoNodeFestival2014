@@ -30,12 +30,16 @@ Node学園祭は秋ごろを予定してますが、秋ごろには今のみん�
 - TJ Hallowaychuk (+1)
 - jonathanOng (+2)
 - sindresorhus (+1)
+- Guillermo (+1)
+- Hannah Wolfe (+1)
 
 聞きたいって言われたこと
 ====================
 
 - Component周り
 - Koa
+- Ghost component
+- Socket.io 1.0
 
 楽しくやろうぜ！！！
 
